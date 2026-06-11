@@ -1,9 +1,9 @@
 [
   {
-    "tag": "v1.0.0",
-    "title": "Patch v1.0.0 — Server launch",
-    "body": "- Initiële serveropstelling voltooid\n- Alle custom content geladen\n- Lost World Uniques beschikbaar in de wereld",
-    "publishedAt": "2026-06-10",
+    "tag": "v1.0.1",
+    "title": "Patch v1.0.1 — Gump files",
+    "body": "- Testing custom login image",
+    "publishedAt": "2026-06-11",
     "downloadUrl": "https://github.com/Lost-World-UO/LWUOPatches/releases/download/v1.0.0/patch.zip"
   }
 ]
