@@ -1,9 +1,9 @@
 [
   {
-    "tag": "v1.0.1",
-    "title": "",
-    "body": "",
+    "tag": "v1.0.2",
+    "title": "New static files",
+    "body": "New statics for the player item display buildings",
     "publishedAt": "2026-06-11",
-    "downloadUrl": "https://github.com/Lost-World-UO/LWUOPatches/releases/download/v1.0.1/patch.zip"
+    "downloadUrl": "https://github.com/Lost-World-UO/LWUOPatches/releases/download/v1.0.2/patch.zip"
   }
 ]
