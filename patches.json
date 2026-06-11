@@ -1,4 +1,11 @@
 [
+    {
+    "tag": "v1.0.3",
+    "title": "BUG FIX - Status Bar",
+    "body": "Number positioning is fixed",
+    "publishedAt": "2026-06-11",
+    "downloadUrl": "https://github.com/Lost-World-UO/LWUOPatches/releases/download/v1.0.3/patch.zip"
+  }
   {
     "tag": "v1.0.2",
     "title": "New static files",
