@@ -1,9 +1,16 @@
 [
+        {
+    "tag": "v1.0.5",
+    "title": "Client hotfix",
+    "body": "Server selection removed from login procedure.",
+    "publishedAt": "2026-06-14T09:56:00",
+    "downloadUrl": "https://github.com/Lost-World-UO/LWUOPatches/releases/download/v1.0.5/patch.zip"
+  },
     {
     "tag": "v1.0.4",
     "title": "Client preperation",
     "body": "Client files prepped for future customization.",
-    "publishedAt": "2026-06-31T21:34:00",
+    "publishedAt": "2026-06-13T21:34:00",
     "downloadUrl": "https://github.com/Lost-World-UO/LWUOPatches/releases/download/v1.0.4/patch.zip"
   },
   {
