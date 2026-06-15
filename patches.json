@@ -1,4 +1,11 @@
 [
+                {
+    "tag": "v1.0.6",
+    "title": "Cliloc file update",
+    "body": "Cliloc updated for missing names",
+    "publishedAt": "2026-06-14T13:28:00",
+    "downloadUrl": "https://github.com/Lost-World-UO/LWUOPatches/releases/download/v1.0.6/patch.zip"
+  },
         {
     "tag": "v1.0.5",
     "title": "Client hotfix",
