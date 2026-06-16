@@ -1,4 +1,11 @@
 [
+                      {
+    "tag": "v1.0.10",
+    "title": "Client hotfix",
+    "body": "Client wouldn't start after last update. - FIXED",
+    "publishedAt": "2026-06-16T11:23:00",
+    "downloadUrl": "https://github.com/Lost-World-UO/LWUOPatches/releases/download/v1.0.10/patch.zip"
+  },
                     {
     "tag": "v1.0.9",
     "title": "New Cliloc version",
